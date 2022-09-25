@@ -1,6 +1,8 @@
 # PHP-NIValidator
 A simple and fast UK National Insurance (N.I.) Number Validator.
 
+[![License](http://poser.pugx.org/governmentplates/uk-national-insurance-validator/license)](https://packagist.org/packages/governmentplates/uk-national-insurance-validator) [![Dependents](http://poser.pugx.org/governmentplates/uk-national-insurance-validator/dependents)](https://packagist.org/packages/governmentplates/uk-national-insurance-validator)
+
 ## Installation
 ```
 composer require governmentplates/uk-national-insurance-validator
