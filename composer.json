@@ -5,7 +5,7 @@
     "keywords": ["validator", "validation", "uk national insurance", "national insurance", "ukni"],
     "homepage": "https://github.com/GovernmentPlates/PHP-NIValidator",
     "license": "GPL-3.0-only",
-    "authors:" [{
+    "authors:": [{
         "name": "Dominic H.",
         "email": "dom@dominic.sk"
     }],
